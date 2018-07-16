@@ -14,4 +14,6 @@ length: 2 days
 
 Informatics and Statistics for Metabolomics.  
 
+The course schedule can be found [here](https://github.com/EWheeler123/Metabolomics_2016/blob/master/Metabolomics_2016_Schedule_v3.pdf)
+
 A poster announcing the workshop can be found [here](https://github.com/EWheeler123/Metabolomics_2016/blob/master/Metabolomics_2016.pdf)
