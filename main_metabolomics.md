@@ -13,3 +13,5 @@ length: 2 days
 # Welcome <a id="welcome"></a>
 
 Informatics and Statistics for Metabolomics.  
+
+A poster announcing the workshop can be found [here](https://github.com/EWheeler123/Metabolomics_2016/blob/master/Metabolomics_2016.pdf)
